@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"n",
+				"neighborhoods"
+			],
+			[
+				"resta",
+				"restaurant-app-v1"
+			],
+			[
+				"res",
+				"respondWith"
+			],
+			[
+				"request",
+				"requestURL"
+			],
+			[
+				"re",
+				"reload"
+			],
+			[
+				"install",
+				"installing"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ser",
+				"serviceWorker"
+			],
+			[
+				"cach",
+				"cacheName"
+			],
+			[
+				"ca",
+				"cacheName"
+			],
+			[
+				"url",
+				"urlsToCache"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"sour",
+				"source3"
+			],
+			[
+				"d",
+				"solid"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"source",
+				"source2"
+			],
+			[
+				"ne",
+				"newPage"
+			],
+			[
+				"firs",
+				"firstLoad"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"s",
+				"suffix"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"zocial",
+				"zocial-twitter"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"insta",
+				"installing"
+			],
+			[
+				"_",
+				"_trackInstalling"
+			],
+			[
+				"wo",
+				"worker"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"se",
+				"serviceWorker"
+			],
+			[
+				"usun",
+				"usunTrening"
+			],
+			[
+				"B",
+				"badInput"
+			],
+			[
+				"Profe",
+				"Profesjonalistow"
+			],
+			[
+				"tre",
+				"trenerzy"
+			],
+			[
+				"za",
+				"zawodnicy"
+			],
+			[
+				"trene",
+				"trenerzy"
+			],
+			[
+				"tr",
+				"trenerzy"
+			],
+			[
+				"Profesjona",
+				"Profesjonalista"
+			],
+			[
+				"dyscy",
+				"dyscyplina"
+			],
+			[
+				"Pro",
+				"Profesjonalisty"
+			],
+			[
+				"p",
+				"profesjonalisci"
+			],
+			[
+				"po",
+				"poziom_zaawansowany"
+			],
+			[
+				"T",
+				"Trener"
+			],
+			[
+				"c",
+				"c_str"
+			],
+			[
+				"at",
+				"atoi"
+			],
+			[
+				"Tre",
+				"Trening"
+			],
+			[
+				"dzien",
+				"dzien_tygodnia"
+			],
+			[
+				"dzi",
+				"dzien_tygodnia"
+			],
+			[
+				"go",
+				"godzina_rozpoczecia"
+			],
+			[
+				"kalenda",
+				"Kalendarz"
+			],
+			[
+				"do",
+				"dodajTrening"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"oso",
+				"osoby"
+			],
+			[
+				"obo",
+				"Osoba"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"g",
+				"godzina_rozpoczecia"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nr",
+				"nr_linii-1"
+			],
+			[
+				"osoba",
+				"Osoba"
+			],
+			[
+				"str",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tom/wittr/public/js/sw/index.js",
+		"/home/tom/MWS/mws-restaurant-stage-1-master/css/sw.js",
+		"/home/tom/wittr/public/js/main/IndexController.js",
+		"/home/tom/MWS/blog_app/Project-Part-1-Start/index.html",
+		"/home/tom/MWS/mws-restaurant-stage-1-master/package.json",
+		"/home/tom/MWS/mws-restaurant-stage-1-master/CODEOWNERS",
+		"/home/tom/wittr/public/js/main/index.js",
+		"/home/tom/MWS/accessibility/lesson6-styling/02-style-aria-states/index.html",
+		"/home/tom/MWS/accessibility/lesson6-styling/02-style-aria-states/main.css",
+		"/home/tom/MWS/accessibility/lesson6-styling/01-focus-styles/index.html",
+		"/home/tom/MWS/accessibility/lesson6-styling/01-focus-styles/main.css",
+		"/home/tom/MWS/focus/03-managing_focus/index.html",
+		"/home/tom/MWS/focus/03-managing_focus/style.css",
+		"/home/tom/MWS/focus/03-managing_focus/scripts/lib/page.js",
+		"/home/tom/MWS/focus/03-managing_focus/scripts/main.js",
+		"/home/tom/MWS/blog_app/Project-Part-1-Start/css/main.css",
+		"/home/tom/MWS/blog_app/Project-Part-1-Start/Gruntfile.js",
+		"/home/tom/MWS/blog_app/Project-Part-3-Solution/index.html",
+		"/home/tom/MWS/blog_app/Project-Part-3-Solution/index-noge.html",
+		"/home/tom/MWS/blog_app/Project-Part-3-Start/index.html",
+		"/home/tom/wittr/public/scss/_theme.scss",
+		"/home/tom/Desktop/Programming/Projekt 2/main.cpp",
+		"/home/tom/Desktop/Programming/Projekt 2/trener.h",
+		"/home/tom/Desktop/Programming/Projekt 2/zawodnik.h",
+		"/home/tom/Desktop/Programming/Projekt 2/trening.h",
+		"/home/tom/Desktop/Programming/Projekt 2/wyjatek.h",
+		"/home/tom/Desktop/Programming/Projekt 2/profesjonalista.h",
+		"/home/tom/Desktop/Programming/Projekt 2/osoba.h",
+		"/home/tom/Desktop/Programming/Projekt 2/kalendarz.h",
+		"/home/tom/Desktop/Programming/new_project/main.cpp",
+		"/home/tom/Desktop/Programming/new_project/kalendarz.cpp",
+		"/home/tom/Desktop/Programming/new_project/kalendarz.h",
+		"/home/tom/Desktop/Programming/new_project/zawodnik.cpp",
+		"/home/tom/Desktop/Programming/new_project/profesjonalista.cpp",
+		"/home/tom/Desktop/Programming/new_project/profesjonalista.h",
+		"/home/tom/Desktop/Programming/new_project/osoba.cpp",
+		"/home/tom/Desktop/Programming/new_project/osoba.h",
+		"/home/tom/Desktop/Programming/new_project/wyjatek.cpp",
+		"/home/tom/Desktop/Programming/new_project/wyjatek.h",
+		"/home/tom/Desktop/Programming/new_project/trener.cpp",
+		"/home/tom/Desktop/Programming/new_project/zawodnik.h",
+		"/home/tom/Desktop/Programming/new_project/trening.h",
+		"/home/tom/Desktop/Programming/new_project/trener.h",
+		"/home/tom/Desktop/Programming/new_project/trening.cpp",
+		"/home/tom/Desktop/Programming/new_project/poczatkujacy.h",
+		"/home/tom/Desktop/Programming/project2/kalendarz.cpp",
+		"/home/tom/Desktop/Programming/project2/osoba.cpp",
+		"/home/tom/Desktop/Programming/project2/osoba.h",
+		"/home/tom/Desktop/Programming/project2/trening.h",
+		"/home/tom/Desktop/Programming/project2/trening.cpp",
+		"/home/tom/Desktop/Programming/project2/kalendarz.h",
+		"/home/tom/Desktop/Programming/project2/main.cpp",
+		"/home/tom/Desktop/Programming/project2/plan.cpp",
+		"/home/tom/Desktop/Programming/project2/plan.h",
+		"/home/tom/Desktop/Programming/project2/dzien.h",
+		"/home/tom/Desktop/Programming/project2/dzien.cpp",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/osoba.cpp",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/osoba.h",
+		"/home/tom/Desktop/Programming/project2/plan_treningow.cpp",
+		"/home/tom/Desktop/Programming/project2/plan_treningow.h",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/kalendarz.cpp",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/kalendarz.h",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/trening.h",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/trening.cpp",
+		"/home/tom/Desktop/Programming/kalendarz_treningow/main.cpp",
+		"/home/tom/Desktop/version-control/reflections/lesson_1_reflections.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

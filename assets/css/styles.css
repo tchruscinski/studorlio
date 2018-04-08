@@ -1,15 +1,15 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #063647; 
+	background-color: #063647;
 }
 
 a {
-  color: #00d1b2;
+  color: #dfdfdf;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #fff;
 }
 
 section{
@@ -80,13 +80,74 @@ a.nav-item:hover {
 
 .intro {
 	text-align: justify;
-	width: 80%;
+	width: 60%;
 	margin: 0 auto;
 }
 
 .void-background {
-	background-color: transparent; 
+	background-color: transparent;
 }
+
+.is-3 i{
+	font-size: 40px;
+	margin-left: 0.5em;
+}
+
+/*-----------*/
+.screen
+{
+	position: relative;
+	transition: all 0.5s ease-in-out;
+}
+
+.screen:hover
+{
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.screen .link
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #222222;
+	opacity: 0;
+	transition: all .5s ease-in-out;
+}
+
+.screen:hover .link
+{
+	opacity:0.7;
+}
+
+.zoom
+{
+	float: left;
+	display: block;
+	top: 40px;
+	left: 25px;
+	position: relative;
+	font-size: 28px;
+	letter-spacing: 1px;
+	margin: 0 auto 0;
+}
+
+.zoom span{
+	font-family: 'Roboto';
+}
+
+h5 i{
+	margin: 0 1em 0;
+}
+
+#about h1{
+	text-align: center;
+}
+
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
